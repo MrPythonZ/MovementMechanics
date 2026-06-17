@@ -75,4 +75,6 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Some free animation that i don't know if i will use or not
-FreeAnimationLibrary/*
+Content/FreeAnimationLibrary/*
+/Content/__ExternalObjects__/LocomotionAnimPack/*
+/Content/__ExternalActors__/LocomotionAnimPack
