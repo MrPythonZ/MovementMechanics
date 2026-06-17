@@ -73,3 +73,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Some free animation that i don't know if i will use or not
+FreeAnimationLibrary/*
